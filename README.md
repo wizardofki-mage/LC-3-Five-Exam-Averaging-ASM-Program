@@ -3,11 +3,9 @@
 * [General Info](#General-info)
 * [Collaborators](#Collaborators)
 * [Techologies](#Technologies)
-* [How to assemble and run the .asm file](#How-to-assemble-and-run-the-.asm-file)
+* [Setup](#Setup)
 * [Example use](#Example-use)
-* [Minimum hardware requirements](#Minimum-hardware-requirements
-* [Release date](#Release)
-* [Sources](#Sources)
+* [Minimum hardware requirements](#Minimum-hardware-requirements)
 * [Release date](#Release-date)
 * [Sources](#Sources)
 
@@ -23,8 +21,8 @@ This is the course group project for CIS-11: Computer Architecture and Organizat
 ## Technologies:
 - LC-3 assembly language and the LC-3 editor and simulator (see below):
 
-## How to assemble and run the .asm file
-Running the assembly language file requires the LC-3 (Little Computer 3) Simulator created by Yale N. Patt and Sanjay J. Patel.
+## Setup
+Running the .asm assembly language file requires the LC-3 (Little Computer 3) Simulator created by Yale N. Patt and Sanjay J. Patel.
 It can be downloaded at https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html
 1. Open the .asm file in LC3Edit.exe (version 3.0.0.0)
 2. Click on Translate --> Assemble.
