@@ -6,7 +6,7 @@
 * [Setup](#Setup)
 * [Example use](#Example-use)
 * [Minimum hardware requirements](#Minimum-hardware-requirements)
-* [Project Status](Project-status)
+* [Project status](#Project-status)
 * [Release date](#Release-date)
 * [Sources](#Sources)
 
