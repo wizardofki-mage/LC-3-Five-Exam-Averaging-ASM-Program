@@ -6,12 +6,13 @@
 * [Setup](#Setup)
 * [Example use](#Example-use)
 * [Minimum hardware requirements](#Minimum-hardware-requirements)
+* [Project Status](Project-status)
 * [Release date](#Release-date)
 * [Sources](#Sources)
 
 ## General info
 A program written in LC-3 assembly language for averaging five exam scores and displaying the minimum, maximum, average, and their corresponding letter grade.
-This is the course group project for CIS-11: Computer Architecture and Organization at Moreno Valley College.
+This is the course group project for CIS-11: Computer Architecture and Organization at Moreno Valley College, taught by Dr. Kasey Nguyen, PhD.
 
 ## Collaborators
 - Jason Ash, Computer Science Major
@@ -40,6 +41,9 @@ After running the program, enter five test scores between 0 and 100 separated by
 ## Minimum hardware requirements
 - Although Patt and Patel do not mention which versions of Windows to use with their LC-3 Simulator, the program was developed using these tools running on Windows 10 without any issues.
 - Any computer with sufficient processing power, RAM, a monitor made within the past 15-20 years, and an Internet connection to download the .asm file and the LC-3 Simulator should suffice.
+
+## Project status
+- Under development
 
 ## Release date
 This project will be launched by June 12, 2025.
