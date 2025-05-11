@@ -22,8 +22,8 @@ This is the course group project for CIS-11: Computer Architecture and Organizat
 
 ## Collaborators
 - Jason Ash, Computer Science Major
-- Ana Moreno, Computer Science Major
-- Luis Lopez-Gallegos, Computer Science Major
+- Ana Moreno, Computer Programming Major
+- Luis Lopez-Gallegos, Electrical Engineering Major
 
 ## Technologies:
 - LC-3 assembly language and the LC-3 editor and simulator (see below):
