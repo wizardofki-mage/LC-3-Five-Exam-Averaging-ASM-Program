@@ -14,11 +14,10 @@
 * [Acknowledgements](#Acknowledgements)
 * [Sources](#Sources)
 * [Contact](#Contact)
-* [Improve Readme](#Improve-Readme)
 
 ## General info
 A program written in LC-3 assembly language for averaging five exam scores and displaying the minimum, maximum, average, and their corresponding letter grade.
-This is the course group project for CIS-11: Computer Architecture and Organization, taught at Moreno Valley College by Dr. Kasey Nguyen, PhD.
+This is the course group project for CIS-11: Computer Architecture and Organization, taught at Moreno Valley College by Prof. Kasey Nguyen, PhD.
 
 ## Collaborators
 - Jason Ash, Computer Science Major
