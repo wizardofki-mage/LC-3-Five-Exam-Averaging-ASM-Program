@@ -81,10 +81,10 @@ Completed according to the requirements of the project and released here on GitH
 This project will be launched by June 12, 2025.
 
 ## Acknowledgements
-Dr. Kasey Nguyen is our project advisor.
+Prof. Kasey Nguyen is our project advisor.
 
 ## Sources
-- Computer architecture and organization and LC-3 assembly language programming are explained in the textbook:
+- Computer architecture and organization, and LC-3 assembly language programming are explained in the textbook:
 Patt, Yale, and Patel, Sanjay. Ise Introduction to Computing Systems: From Bits & Gates to C. 3rd ed., 	McGraw-Hill, 	2020.
 - “What Is a Swimlane Diagram?” Lucidchart, 8 May 2025, www.lucidchart.com/pages/tutorial/swimlane-diagram#:~:text=A%20swimlane%20diagram%20is%20a,employee%2C%20work%20group%20or%20department 
 
