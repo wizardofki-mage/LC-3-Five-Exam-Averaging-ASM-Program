@@ -70,7 +70,7 @@ After running the program, enter five test scores between 0 and 100 separated by
 ![A screen capture of the program successfully running and displaying the average, minimum, and maximum test scores with their corresponding letter grade using test data required for the project](TeamBAwesomeRunWithTestData25May2025_0739am.jpg)
 
 ## Project status
-- Completed according to the requirements of the project and released here on GitHub.
+Completed according to the requirements of the project and released here on GitHub.
 
 ## Room for improvement
 - Combining the three multiplication and two division subroutines into one subroutine for each that is called by the respective part of the program that needs their return values.
@@ -82,7 +82,7 @@ After running the program, enter five test scores between 0 and 100 separated by
 This project will be launched by June 12, 2025.
 
 ## Acknowledgements
-- Dr. Kasey Nguyen is our project advisor.
+Dr. Kasey Nguyen is our project advisor.
 
 ## Sources
 - Computer architecture and organization and LC-3 assembly language programming are explained in the textbook:
