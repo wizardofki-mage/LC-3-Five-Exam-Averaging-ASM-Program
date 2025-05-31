@@ -26,7 +26,7 @@ This is the course group project for CIS-11: Computer Architecture and Organizat
 - Luis Lopez-Gallegos, Electrical Engineering Major
 
 ## Technologies:
-- LC-3 assembly language and the LC-3 editor and simulator (see below):
+LC-3 assembly language and the LC-3 editor and simulator (see below):
 
 ## Setup
 Running the .asm assembly language file requires the LC-3 (Little Computer 3) Simulator created by Yale N. Patt and Sanjay J. Patel.
