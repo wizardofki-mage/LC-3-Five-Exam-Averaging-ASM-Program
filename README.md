@@ -67,13 +67,14 @@ After running the program, enter five test scores between 0 and 100 separated by
 - The program automatically halts after displaying the average, minimum, and maximum test scores along with their letter grade.
 
 ## Screenshots
+![A screen capture of the program successfully running and displaying the average, minimum, and maximum test scores with their corresponding letter grade using test data required for the project](TeamBAwesomeRunWithTestData25May2025_0739am.jpg)
 
 ## Project status
 - Completed according to the requirements of the project and released here on GitHub.
 
 ## Room for improvement
 - Combining the three multiplication and two division subroutines into one subroutine for each that is called by the respective part of the program that needs their return values.
-- Rounding the average score according to math rounding rules instead of it either rounding up all fractional scores, truncating average scores, or being off-by-one on the average score.
+- Rounding the average score according to math rounding rules instead of either rounding up all fractional scores, truncating average scores, or being off-by-one on the average score.
 - Handling fractional scores with decimal values since the LC-3 has no floating point support and only processes integers.
 - Asking the user how many test scores they want to enter to average or averaging test scores for an entire class (both of which are beyond the scope of this project).
 
