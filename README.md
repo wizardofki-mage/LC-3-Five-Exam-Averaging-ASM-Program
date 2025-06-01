@@ -90,3 +90,4 @@ Patt, Yale, and Patel, Sanjay. Ise Introduction to Computing Systems: From Bits 
 
 ## Contact
 Jason Ash - wizardofki@gmail.com
+Luis Lopez - luis.lopez.rvp@gmail.com
